@@ -8,7 +8,7 @@
 
 **The team:** The team involved many colleagues from [Universidad Austral de Chile](http://www.forestal.uach.cl/index.php) (Carlos LeQuesne, Jonathan Barichivich, Duncan Christie, Tomás Muñoz, Moises Rojas), [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/user/drdendro) (Ed Cook) and [IANIGLA-CONICET](https://www.pnas.org/content/117/37/22626) (Mariano Morales and colleagues) that contributed to collecting and processing the samples and then to the computations and analysis. 
 
-**The product:** The reconstructed maps can be analysed to characterise the the sptatial extent and severity of past droughts in the region and study the mechanisms that cause the different types of droughts. Any inquiries can be addressed to Dr. Jonathan Barichivich (campsidium@gmail.com) and Dr. Carlos Lequesne (carlos.lequesne@gmail.com).
+**The product:** The reconstructed maps can be analysed to characterise the the sptatial extent and severity of past droughts in the region and study the mechanisms that cause the different types of droughts. Inquiries can be addressed to Dr. Jonathan Barichivich (campsidium@gmail.com) and Dr. Carlos Lequesne (carlos.lequesne@gmail.com).
 
 Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indicate severe (scPDSI <= -3) to extreme (scPDSI <= -4) drought, whereas dark greens represent (scPDSI >= 3) to extreme (scPDSI >= 4) wet conditions or pluvials. Pale colors and values around zero correspond to near normal moisture conditions.
 
