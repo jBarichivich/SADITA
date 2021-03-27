@@ -6,7 +6,7 @@
 
 **Funding:** The work of this project was funded by the FONDECYT project 1181956.
 
-**The team:** The team involved many colleagues from [Universidad Austral de Chile](http://www.forestal.uach.cl/index.php) (Carlos LeQuesne, Jonathan Barichivich, Duncan Christie, Tomás Muñoz, Moises Rojas) and [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/user/drdendro) (Ed Cook) that contributed to collecting and processing the samples and then to the computations and analysis. core team involves  from the Universidad Austral de Chile.
+**The team:** The team involved many colleagues from [Universidad Austral de Chile](http://www.forestal.uach.cl/index.php) (Carlos LeQuesne, Jonathan Barichivich, Duncan Christie, Tomás Muñoz, Moises Rojas), [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/user/drdendro) (Ed Cook) and [IANIGLA-CONICET](https://www.pnas.org/content/117/37/22626) (Mariano Morales and colleagues) that contributed to collecting and processing the samples and then to the computations and analysis. core team involves  from the Universidad Austral de Chile.
 
 
 <img src="https://github.com/jBarichivich/SADITA/blob/fe87d8385bc4c474e2be2c9ba9e25d5c0eacc19e/SADITA.MOVIE.1000AD.2018AD_lite_lite.gif" id="octocat" alt="octocat-gif" />
