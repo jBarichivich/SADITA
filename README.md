@@ -10,7 +10,7 @@
 
 **The product:** The reconstructed maps can be analysed to characterise the the sptatial extent and severity of past droughts in the region and study the mechanisms that cause the different types of droughts. Any inquiries can be addressed to Dr. Jonathan Barichivich (campsidium@gmail.com) and Dr. Carlos Lequesne (carlos.lequesne@gmail.com).
 
-Here is a viasual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indicate severe (scPDSI <= -3) to extreme (scPDSI <= -4) drought, whereas dark greens represent (scPDSI >= 3) to extreme (scPDSI >= 4) wet conditions or pluvials.
+Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indicate severe (scPDSI <= -3) to extreme (scPDSI <= -4) drought, whereas dark greens represent (scPDSI >= 3) to extreme (scPDSI >= 4) wet conditions or pluvials. Pale colors and values around zero correspond to near normal moisture conditions.
 
 
 <img src="https://github.com/jBarichivich/SADITA/blob/fe87d8385bc4c474e2be2c9ba9e25d5c0eacc19e/SADITA.MOVIE.1000AD.2018AD_lite_lite.gif" id="octocat" alt="octocat-gif" />
