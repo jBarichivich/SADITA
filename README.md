@@ -16,5 +16,5 @@ Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indic
 <img src="https://github.com/jBarichivich/SADITA/blob/fe87d8385bc4c474e2be2c9ba9e25d5c0eacc19e/SADITA.MOVIE.1000AD.2018AD_lite_lite.gif" id="octocat" alt="octocat-gif" />
 
 
-This is how the landscape look like:
+This is how the landscape looks like:
 <img src="images/4 Cipres L1050449.jpg?raw=true"/>
