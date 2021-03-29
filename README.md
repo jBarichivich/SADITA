@@ -4,7 +4,7 @@
 
 **How the Atlas was done:** Annual maps of summer (Dec-Feb) scPDSI were reconstructed for the last millennium [point-by-point](https://www.ldeo.columbia.edu/user/drdendro) (grid-by-grid) from a network of [290 tree-ring width chronologies](https://doi.org/10.1073/pnas.2002411117) of thousands of Andean trees. For the high-resolution Chilean domain, the reconstructions were done using an improved network of 42 tree-ring chronologies of *_Austrocedrus Chilensis_* and *_Araucaria araucana_*. 
 
-**Funding:** The work of this project was funded by the FONDECYT project 1181956.
+**Funding:** The work of this project was funded by the FONDECYT grant number 1181956.
 
 **The team:** The team involved many colleagues from [Universidad Austral de Chile](http://www.forestal.uach.cl/index.php) (Carlos LeQuesne, Jonathan Barichivich, Duncan Christie, Tomás Muñoz, Tania Gipoulou, Moises Rojas), [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/user/drdendro) (Ed Cook) and [IANIGLA-CONICET](https://www.pnas.org/content/117/37/22626) (Mariano Morales, Ricardo Villalba, Fidel Roig, Martín Hadad and colleagues) that contributed to collecting and processing the samples and then to the computations and analysis. 
 
