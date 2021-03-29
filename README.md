@@ -15,3 +15,6 @@ Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indic
 
 <img src="https://github.com/jBarichivich/SADITA/blob/fe87d8385bc4c474e2be2c9ba9e25d5c0eacc19e/SADITA.MOVIE.1000AD.2018AD_lite_lite.gif" id="octocat" alt="octocat-gif" />
 
+
+This is how the landscape look like:
+<img src="images/cartoon_walker_v4_BBC_vEN_agulhas.png?raw=true"/>
