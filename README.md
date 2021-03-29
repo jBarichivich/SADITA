@@ -24,4 +24,5 @@ This is how the landscape looks like:
 
 <img src="images/4 Cipresillos L1070877.JPG?raw=true"/>
 
+<img src="images/1 Altiplano Polylepis L1000877.jpg?raw=true"/>
 
