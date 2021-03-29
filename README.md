@@ -18,3 +18,5 @@ Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indic
 
 This is how the landscape looks like:
 <img src="images/4 Cipres L1050449.jpg?raw=true"/>
+
+<img src="images/4 Cipresillos L1070877.JPG?raw=true"/>
