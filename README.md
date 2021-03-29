@@ -16,13 +16,16 @@ Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indic
 <img src="https://github.com/jBarichivich/SADITA/blob/fe87d8385bc4c474e2be2c9ba9e25d5c0eacc19e/SADITA.MOVIE.1000AD.2018AD_lite_lite.gif" id="octocat" alt="octocat-gif" />
 
 
-This is how the landscape looks like:
+This is how the landscape looks like.
+-*_Austrocedrus Chilensis_* in central Chile
 
 <img src="images/1 Campana Chile central L1020336.JPG?raw=true"/>
 
 <img src="images/4 Cipres L1050449.jpg?raw=true"/>
 
 <img src="images/4 Cipresillos L1070877.JPG?raw=true"/>
+
+-*_Polylepis tarapacana_* in the Chilean Altiplano
 
 <img src="images/1 Altiplano Polylepis L1000877.jpg?raw=true"/>
 
