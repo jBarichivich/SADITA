@@ -18,7 +18,7 @@ Here is a visual sample of the Atlas from 1000 AD to 2018 AD. Brown colors indic
 
 This is how the landscape looks like.
 
--*_Austrocedrus Chilensis_* in central Chile
+-*_Austrocedrus chilensis_* in central Chile
 
 <img src="images/1 Campana Chile central L1020336.JPG?raw=true"/>
 
