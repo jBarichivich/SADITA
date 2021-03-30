@@ -2,7 +2,7 @@
 
 **What is the drought metric used:** The metric used to quantify soil moisture and drought variability is the self-calibrating Palmer Drought Severity Index or [scPDSI](https://crudata.uea.ac.uk/cru/data/drought/). The index was computed for the Chilean domain using gridded precipitation from the [CR2MET dataset](http://www.cr2.cl/datos-productos-grillados/) at 5x5 km of resolution between La Serena and Chiloé. For the Andean region of Chile and Argentina, the index was computed at 50x50km using gridded precipitation from the Climatic Research Unit [CRUTS 4.05 dataset](https://crudata.uea.ac.uk/cru/data/drought/).
 
-**How the Atlas was done:** Annual maps of summer (Dec-Feb) scPDSI were reconstructed for the last millennium [point-by-point](https://www.ldeo.columbia.edu/user/drdendro) (grid-by-grid) from a network of [290 tree-ring width chronologies](https://doi.org/10.1073/pnas.2002411117) of thousands of Andean trees. For the high-resolution Chilean domain, the reconstructions were done using an improved network of 42 tree-ring chronologies of *_Austrocedrus Chilensis_* and *_Araucaria araucana_*. 
+**How the Atlas was done:** Annual maps of summer (Dec-Feb) scPDSI were reconstructed for the last millennium [point-by-point](https://www.ldeo.columbia.edu/user/drdendro) (grid-by-grid) from a network of [290 tree-ring width chronologies](https://doi.org/10.1073/pnas.2002411117) of thousands of Andean trees. For the high-resolution Chilean domain, the reconstructions were done using an improved network of 42 tree-ring chronologies of *_Austrocedrus chilensis_* and *_Araucaria araucana_*. 
 
 **Funding:** The work of this project was funded by the FONDECYT grant number 1181956.
 
