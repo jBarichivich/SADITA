@@ -6,7 +6,7 @@
 
 **Funding:** The work of this project was funded by the FONDECYT grant number 1181956.
 
-**The team:** The team involved many colleagues from [Universidad Austral de Chile](http://www.forestal.uach.cl/index.php) (Carlos LeQuesne, Jonathan Barichivich[me], Duncan Christie, Tomás Muñoz, Tania Gipoulou, Moises Rojas), [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/user/drdendro) (Ed Cook) and [IANIGLA-CONICET](https://www.pnas.org/content/117/37/22626) (Mariano Morales, Ricardo Villalba, Fidel Roig, Martín Hadad and colleagues) that contributed to collecting and processing the samples and then to the computations and analysis. 
+**The team:** The team involved many colleagues from [Universidad Austral de Chile](http://www.forestal.uach.cl/index.php) (Carlos LeQuesne, Jonathan Barichivich[me], Duncan Christie, Tomás Muñoz, Tania Gipoulou, Moises Rojas), [Lamont Doherty Earth Observatory](https://www.ldeo.columbia.edu/user/drdendro) (Ed Cook) and [IANIGLA-CONICET](https://www.pnas.org/content/117/37/22626) (Mariano Morales, Ricardo Villalba, Fidel Roig, Martín Hadad and colleagues) that contributed to [collecting](https://www.youtube.com/watch?v=32yRN_O_YRc) and processing the samples and then to the computations and analysis. 
 
 **The product:** The reconstructed maps can be analysed to characterise the the spatial extent and severity of past droughts in the region and study the mechanisms that cause the different types of droughts. Inquiries can be addressed to Dr. Jonathan Barichivich (campsidium@gmail.com) and Dr. Carlos LeQuesne (carlos.lequesne@gmail.com).
 
